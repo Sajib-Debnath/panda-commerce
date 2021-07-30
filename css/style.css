@@ -1,0 +1,39 @@
+.banner-area{
+    background-color: #fceae8;
+    padding: 10px 25px;
+    border-radius: 5px;
+    border-style: none;
+}
+
+header, section{
+    margin-bottom: 50px;
+}
+
+#buy-now-btn{
+    background-color: #ff136f;
+    padding: 6px 14px;
+    border-radius: 10px;
+    border-style: none;
+    color: #fff;
+}
+
+.price{
+    color: #ff136f;
+}
+
+.cat1{
+    background-color: orange;
+}
+.cat2{
+    background-color: orchid;
+}
+.cat3{
+    background-color: blue;
+}
+
+.cat1, .cat2, .cat3{
+    padding: 0px 70px;
+}
+
+
+
